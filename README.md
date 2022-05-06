@@ -1,4 +1,4 @@
-# CFD_AI
+# An Study on the Performance of Distributed Training of Data-driven CFD Simulations
 Results presented in this section have been obtained with the following hardware:
 - The predictive model training and inference is performed on the cluster CTE-Power. CTE-Power nodes are equipped each
 with two processors IBM Power9 8335-GTH @ 2.4GHz with a total of 160 threads, 512GB of main memory, and four
