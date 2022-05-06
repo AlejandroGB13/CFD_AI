@@ -6,3 +6,5 @@ GPU NVIDIA V100 with 16GB HBM2. Nodes are interconnected via single Port Mellano
 
 Regarding the software stack, he predictive model has been developed on CTE-Power with Python 3.7.4, CUDA 10.2.89, Keras 2.4,
 Tensorflow 2.3, Horovod 0.20.3, and OpenMPI 4.0.1.
+
+Images with results are yet to be uploaded
